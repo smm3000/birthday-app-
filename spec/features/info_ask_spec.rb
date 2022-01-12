@@ -10,13 +10,5 @@ feature 'Enter Name & Birthday' do
     end
 end 
 
-feature 'Submitting Information' do
-    scenario 'submit name and birthday' do
-        visit ('/')
-        fill_in :name, with: 'JimBob'
-        fill_in :Birthday, with: '08/01/99'
-        click_button 'Submit'
-        expect(page).to have_content 'birthday is tomorrow!'
-    end 
-end 
+
 
