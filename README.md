@@ -4,7 +4,8 @@
 
 1. Run Bundler
 2. Open localhost:9292
-3. Run application
+3. Run application using following command in terminal:
+   rackup config.ru
 
 <h2> Description <h2> 
 
