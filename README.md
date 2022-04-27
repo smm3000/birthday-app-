@@ -17,6 +17,6 @@ Ruby / Sinatra
 HTML / CSS
 RSpec and Capybara for testing
    
-<h1> Next Steps <h1>
+<h1> Next Steps </h1>
    
-The next steps of the project will be to 
+The next steps of the project will be to work on styling and improve testing. 
