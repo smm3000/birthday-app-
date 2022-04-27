@@ -19,4 +19,6 @@ RSpec and Capybara for testing
    
 <h1> Next Steps </h1>
    
-The next steps of the project will be to work on styling and improve testing. 
+The next steps of the project will be to work on styling and improve testing:
+   
+   - Need to implement the "today" feature. 
