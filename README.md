@@ -16,3 +16,7 @@ This is primary to practice the following tools and technologies:
 Ruby / Sinatra
 HTML / CSS
 RSpec and Capybara for testing
+   
+<h1> Next Steps <h1>
+   
+The next steps of the project will be to 
