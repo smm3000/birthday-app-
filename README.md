@@ -7,7 +7,7 @@
 3. Run application using following command in terminal:
    rackup config.ru
 
-<h3> Description <h3> 
+<h3> Description </h3> 
 
 This is a simple application that displays birthday wishes and shows the number of dates before your birthday. If today is not your birthday it will calculate a number of days left.
 
