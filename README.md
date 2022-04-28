@@ -1,6 +1,6 @@
 # birthday-app
 
-<h2> How to run the web application <h2>
+<h2> How to run the web application </h2>
 
 1. Run Bundler
 2. Open localhost:9292
