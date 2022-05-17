@@ -1,4 +1,4 @@
-# birthday-app
+# Birthday-App
 
 <h2> How to run the web application </h2>
 
